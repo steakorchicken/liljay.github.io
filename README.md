@@ -1,19 +1,19 @@
-# Project Title hello
+# LilJay.github.io
 
-## Description
+## about
 
-[Describe your project briefly here]
+My name is Julian Marin, and I am a passionate IT professional with eight years of diverse experience. Throughout my career, I have had the privilege of working on various exciting projects that have further deepened my love for all things IT. My expertise extends to working with both enterprise and government clients, allowing me to understand and cater to the unique needs of different sectors.
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [links](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Links
 
-[Provide instructions on how to install/setup your project]
+Linkedin: https://www.linkedin.com/in/julian-marin-968362243/
 
 ## Usage
 
