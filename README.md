@@ -8,9 +8,7 @@ what it doooo
     <title>John's Website</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 100px;
+            
         }
         h1 {
             color: #333;
