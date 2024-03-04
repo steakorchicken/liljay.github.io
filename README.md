@@ -6,7 +6,7 @@ Welcome to my personal page! I'm Julian, a dedicated System Administrator.
 ---
 
 # About
-Here's a little about me. [Expand with your background, interests, and anything you'd like to share about your personal or professional journey.]
+I am a passionate IT professional with eight years of diverse experience. Throughout my career, I have had the privilege of working on various exciting projects that have further deepened my love for all things IT. My expertise extends to working with both enterprise and government clients, allowing me to understand and cater to the unique needs of different sectors.
 
 ---
 
@@ -42,6 +42,6 @@ Check out my latest blog posts:
 # Contact
 Feel free to reach out to me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](Your_LinkedIn_Profile)
-- GitHub: [Your GitHub](Your_GitHub_Profile)
+- Email: [your.email@example.com](mailto:thejulianmarin17@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/julian-marin-968362243/)
+- GitHub: [Your GitHub](https://github.com/steakorchicken)
