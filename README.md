@@ -42,6 +42,6 @@ Check out my latest blog posts:
 # Contact
 Feel free to reach out to me:
 
-- Email: [Email(mailto:thejulianmarin17@gmail.com)
+- Email: [Email](thejulianmarin17@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/julian-marin-968362243/)
 - GitHub: [GitHub](https://github.com/steakorchicken)
