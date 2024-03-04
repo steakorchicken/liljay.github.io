@@ -1,65 +1,47 @@
-# LilJay.github.io
+# Home
+Welcome to my personal page! I'm Julian, a dedicated System Administrator.
 
-## about
+![Your Photo or Avatar](path_to_your_photo.jpg)
 
-My name is Julian Marin, and I am a passionate IT professional with eight years of diverse experience. Throughout my career, I have had the privilege of working on various exciting projects that have further deepened my love for all things IT. My expertise extends to working with both enterprise and government clients, allowing me to understand and cater to the unique needs of different sectors.
+---
 
-## Table of Contents
+# About
+Here's a little about me. [Expand with your background, interests, and anything you'd like to share about your personal or professional journey.]
 
-- [links](#installation)
-- [Experience](#usage)
-- [Certifications](#contributing)
-- [License](#license)
+---
 
-## Links
+# Portfolio/Projects
+Here are some of my recent works:
 
-Linkedin: https://www.linkedin.com/in/julian-marin-968362243/
+- **[Project Name 1](Project_Link)** - A brief description of the project.
+- **[Project Name 2](Project_Link)** - A brief description of the project.
+- **[Project Name 3](Project_Link)** - A brief description of the project.
 
-## Experience
+---
 
-System Administrator
-Jul 2023 - Present
+# Resume/CV
+Here's a brief overview of my professional background. [You can expand here with your experiences, education, and skills.]
 
-As a System Administrator, I provide full support for the IT infrastructure at Core Technologies/AOC Connect. I work with other system administrators to ensure the smooth operation of the company's systems.
+- **Experience**: Your job title at Company Name, Dates of Employment
+- **Education**: Your degree at School Name, Dates Attended
+- **Skills**: Skill 1, Skill 2, Skill 3
 
-Responsibilities:
-  -Resolve hardware and software issues for in-house staff and other Corp office located in VA. 
+[Link to your full resume](path_to_your_resume.pdf)
 
-  -Ensure the confidentiality, integrity, and availability of data by meticulously following company policies, technical procedures, and established standards. 
+---
 
-  -Carrying out Windows Updates on various systems, including servers, end-user computers, firewall firmware, access point firmware, antivirus software, and RMM software. 
+# Blog (Optional)
+Check out my latest blog posts:
 
-  -Use Active Directory to manage users, permissions, and security, making sure everything runs smoothly and securely. 
+- **[Blog Post Title 1](Blog_Post_Link)**
+- **[Blog Post Title 2](Blog_Post_Link)**
+- **[Blog Post Title 3](Blog_Post_Link)**
 
-  -Management of corporate firewall including updates, security incidents and policy rules. 
+---
 
-  -Management of corporate network. 
+# Contact
+Feel free to reach out to me:
 
-  -Implementing user Security Awareness training (knowbe4) 
-
--New user setups including email, cloud storage, anti-virus, domain account, and computer configuration including BitLocker AES 256 encryption.
-
-Network Operations Center Technician
-Jul 2023 - Present 
-
-  -Hold an HSPD-12 and OCIO clearance.
-
-  -Monitoring multiple government internet/voice circuits with various Monitoring tools. 
-
-  -Responding to user requests and providing network training. 
-
-  -Diagnosing and troubleshooting various network issues. 
-
-  -Tracking and documenting network issues and compiling incident reports. 
-
-  -Responding to network alerts and hardware malfunctions, coordinate with local carriers to dispatch technicians when needed.
-
-## Certifications
-
-  -CompTIA A+
-  -HSPD-12
-
-
-## License
-
-[Specify the license under which your project is distributed]
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](Your_LinkedIn_Profile)
+- GitHub: [Your GitHub](Your_GitHub_Profile)
