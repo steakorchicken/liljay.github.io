@@ -1,8 +1,6 @@
 # Home
 Welcome to my personal page! I'm Julian, a dedicated System Administrator.
 
-![Your Photo or Avatar](/images/profile.jpg)
-
 ---
 
 # About
